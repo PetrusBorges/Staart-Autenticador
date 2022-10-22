@@ -1,10 +1,10 @@
-# Autenticador React 🤘
+# Autenticação e Armazenamento de Dados no React 🤘
 
 Repositório criado exclusivamente para treinar boas práticas em REACT + NPM/NPX + REACT STYLED COMPONENTS + FIREBASE.
 
 ## 📋 Projeto
 
-Nesta aplicação foi possível treinar conhecimentos fundamentais em REACT + FIREBASE, criando uma tela de login com autentificador, sendo possível gerar as seguintes ações:
+O projeto tem como objetivo criar uma tela de login com autentificador, sendo possível gerar as seguintes ações:
 
 ✔️ CRIAR CONTA
 
@@ -13,6 +13,8 @@ Nesta aplicação foi possível treinar conhecimentos fundamentais em REACT + FI
 ✔️ ALTERAR DADOS DO USUÁRIO
 
 ✔️ FAZER LOGIN
+
+Nesta aplicação foi possível treinar conhecimentos fundamentais em REACT + FIREBASE.
 
 ## 🛠️ Feito com
 
