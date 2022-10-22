@@ -2,6 +2,8 @@
 
 Repositório criado exclusivamente para treinar boas práticas em REACT + NPM/NPX + REACT STYLED COMPONENTS + FIREBASE.
 
+[Petrus Borges - Autentificador React](https://staart-autenticador.vercel.app)
+
 ## 📋 Projeto
 
 Nesta aplicação foi possível treinar conhecimentos fundamentais em REACT + FIREBASE, criando uma tela de login com autentificador, sendo possível gerar as seguintes ações:
